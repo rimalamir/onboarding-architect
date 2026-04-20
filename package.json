@@ -1,0 +1,9 @@
+{
+    "name": "onboarding-architect-skill",
+    "version": "1.0.0",
+    "description": "Context-aware onboarding skill for Claude Code",
+    "files": [
+        "skills",
+        "skills.json"
+    ]
+}
