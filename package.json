@@ -1,7 +1,24 @@
 {
     "name": "onboarding-architect-skill",
     "version": "1.0.0",
-    "description": "Context-aware onboarding skill for Claude Code",
+    "description": "Context-aware onboarding skill for Claude Code and Codex",
+    "keywords": [
+        "claude-code",
+        "codex",
+        "skills",
+        "onboarding",
+        "activation",
+        "first-run",
+        "ios",
+        "android",
+        "react-native",
+        "flutter"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rimalamir/onboarding-architect"
+    },
     "files": [
         "skills",
         "skills.json"
